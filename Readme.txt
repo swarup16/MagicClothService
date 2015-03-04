@@ -1,1 +1,1 @@
-Added Magic Cloth Service
+Added Magic Cloth Services.
